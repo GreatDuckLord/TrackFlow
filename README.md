@@ -10,10 +10,9 @@ TrackFlow helps you effortlessly track all your packages in one clean, intuitive
 
 TrackFlow helps you effortlessly monitor all your packages in one beautiful, intuitive interface. Never miss a delivery again.
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/trackflow.svg)](https://github.com/yourusername/trackflow)
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](https://dart.dev)
-[![License](https://img.shields.io/github/license/yourusername/trackflow)](LICENSE)
+[![License](https://img.shields.io/github/license/GreatDuckLord/trackflow)](LICENSE)
 
 ## ✨ Features
 
