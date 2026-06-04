@@ -35,27 +35,35 @@ TrackFlow helps you effortlessly monitor all your packages in one beautiful, int
 
 ## 🚀 Installation
 
-### From Google Play (Recommended)
+### From Releases (Recommended)
+1. Go to the [Releases page](https://github.com/YOUR_USERNAME/TrackFlow/releases)
+2. Download the latest `.apk` file
+3. Install on your Android device
+
+### From Google Play (PLACEHOLDER)
 [<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="60">](https://play.google.com/store/apps/details?id=com.yourname.trackflow)
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
-Framework: Flutter (Dart)
-State Management: [Riverpod / Bloc / Provider] (update accordingly)
-Architecture: Clean Architecture / MVVM
-Networking: Dio + Retrofit
-Local Storage: Hive / Isar / SharedPreferences
-Notifications: Firebase Cloud Messaging
-Design System: Material 3
+-**Framework**: Flutter (Dart)
 
-📌 Roadmap
+-**State Management**: [Riverpod / Provider]
 
- iOS support
- Web & Desktop versions
- AI-powered delivery predictions
- Export tracking history
- Widget support
+-**Architecture**: Clean Architecture
 
+-**Local Storage**: SharedPreferences
+
+-**Design System**: Material 3
+
+## 📌 Roadmap
+
+- **iOS support**
+ 
+- **Web & Desktop versions**
+ 
+- **AI-powered delivery predictions**
+ 
+- **Export tracking history**
  
 
 ### From Source
