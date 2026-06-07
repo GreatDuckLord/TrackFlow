@@ -79,8 +79,8 @@ TrackFlow helps you effortlessly monitor all your packages in one beautiful, int
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/trackflow.git
-cd trackflow
+git clone https://github.com/GreatDuckLord/TrackFlow.git
+cd TrackFlow
 
 # Get dependencies
 flutter pub get
