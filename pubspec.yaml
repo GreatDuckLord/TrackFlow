@@ -1,0 +1,28 @@
+name: track_flow
+description: "Material Design 3 Package Tracking App"
+publish_to: "none"
+version: 1.1.0
+
+environment:
+  sdk: ^3.10.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  google_fonts: ^6.2.1
+  flutter_animate: ^4.5.2
+  intl: ^0.20.2
+  shared_preferences: ^2.3.5
+  webview_flutter: ^4.10.0
+  url_launcher: ^6.3.2
+  permission_handler: ^12.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
