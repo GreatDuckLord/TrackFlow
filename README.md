@@ -28,9 +28,10 @@ TrackFlow helps you effortlessly monitor all your packages in one beautiful, int
 ## 📱 Screenshots
 
 <!-- Add your screenshots here -->
-| Home Screen | Tracking Detail | Scanner |
-|-------------|-----------------|---------|
-| ![Screenshot 1]([screenshots/home.png](https://github.com/GreatDuckLord/TrackFlow/blob/dea5a2a84b6b73644fdbd99e974a7c1dee4d306c/Screenshots/HomeScreen.jpeg)) | ![Screenshot 2]([screenshots/detail.png](https://github.com/GreatDuckLord/TrackFlow/blob/dea5a2a84b6b73644fdbd99e974a7c1dee4d306c/Screenshots/ActivityScreen.jpeg)) | ![Screenshot 3]([screenshots/scanner.png](https://github.com/GreatDuckLord/TrackFlow/blob/dea5a2a84b6b73644fdbd99e974a7c1dee4d306c/Screenshots/TrackingScreen.jpeg)) |
+| Home Screen |
+|-------------|
+![image alt](https://github.com/GreatDuckLord/TrackFlow/blob/dea5a2a84b6b73644fdbd99e974a7c1dee4d306c/Screenshots/HomeScreen.jpeg)
+
 
 ## 🚀 Installation
 
