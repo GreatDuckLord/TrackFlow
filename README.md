@@ -1,11 +1,6 @@
 # TrackFlow
 TrackFlow helps you effortlessly track all your packages in one clean, intuitive Android app built with Flutter.
 
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=TrackFlow" alt="TrackFlow Banner" width="800"/>
-</p>
-
 **Modern Package Tracking App for Android** built with **Flutter** & **Dart**.
 
 TrackFlow helps you effortlessly monitor all your packages in one beautiful, intuitive interface. Never miss a delivery again.
